@@ -1,6 +1,7 @@
 Keeping it clean
 
 //culmination of rubbish files that i got in my local store but really don't want to lose.
+
 //Sorting the folders a bit
     kube_examples - k8 examples to deploy various components.
     Docker_examples - docker deployment w/K8 on Linux host, requires some cleanup
