@@ -1,0 +1,22 @@
+{
+  "data": {
+    "condition": "true",
+    "overrides": [
+      {
+        "action": "add",
+        "settings": {
+          "GeneralSettings": {
+            "IpcReservedPorts": [
+              "70000-70010"
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "name": "Port usage exclusion 70000 - 70010",
+    "osType": 1,
+    "profileType": 4
+  }
+}

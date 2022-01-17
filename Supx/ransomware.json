@@ -1,0 +1,23 @@
+{
+  "data": {
+    "condition": "true",
+    "overrides": [],
+    "rules": {
+      "Ransom": [
+        {
+          "action": "set",
+          "processes": null,
+          "settings": {
+            "Block": false,
+            "Enable": false 
+          }
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "name": "imlazytolearnSUPX",
+    "osType": 1,
+    "profileType": 2
+  }
+}
